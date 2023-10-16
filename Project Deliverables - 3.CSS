@@ -2,3 +2,8 @@
   bold, 20px, red
 }
   
+.next {
+      text-decoration: none;
+      background-color: lightgreen;
+      padding: 5px 15px 5px 15px;
+}
