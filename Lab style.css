@@ -1,0 +1,46 @@
+th{
+    background-color: lightgray;
+    padding: 10px
+}
+table{
+    width: 2px;
+    border: solid black;
+    margin: 100px 100px 100px 100px
+}
+td{
+    padding: 10px
+}
+.img1{
+    height: 150px;
+    width: 150px;
+    border: 5px dashed red;
+    padding: 30px
+}
+.img2{
+    height: 150px;
+    width: 150px;
+    border: 5px dashed red;
+    padding: 30px
+}
+.img3{
+    height: 150px;
+    width: 150px;
+    border: 5px dashed red;
+    padding: 30px
+}
+.para{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 25px;
+}
+.njitlink:hover{
+    color: red;
+}
+.doclink:visited{
+    color:grey
+}
+.emaillink:active{
+    color:orange
+}
