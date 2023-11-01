@@ -17,12 +17,6 @@
     cursor: pointer;
 }
 
-.letter {
-            justify-content: center;
-            align-items: center;
-            margin: 100px 0px 0px 285px;
-            margin-bottom: -110px
-}
 .intro {
     text-align: center;
     font-size: 17px;
