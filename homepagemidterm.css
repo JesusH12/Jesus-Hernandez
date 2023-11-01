@@ -1,1 +1,42 @@
+.freedom {
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 5%;
+    padding: 60px;
+    text-align: center;
+    background: #79ebd4;
+    color: white;
+    font-size: 50px;
+}
 
+.thespiel {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.failure {
+    margin-left: 10%;
+    height: 35%;
+    width: 35%;
+    padding-bottom: 5%;
+}
+
+.success {
+    margin-right: 10%;
+    height: 35%;
+    width: 35%;
+    padding-bottom: 5%;
+}
+
+.versus {
+    padding: 5%;
+    text-align: center;
+    background: #ffffff;
+    color: rgb(194, 241, 245);
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.schedule {
+    padding: 10%;
+
+}
