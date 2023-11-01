@@ -9,3 +9,23 @@
       background-color: lightgreen;
       padding: 5px 15px 5px 15px;
 }
+.submit-button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.letter {
+            justify-content: center;
+            align-items: center;
+            margin: 100px 0px 0px 285px;
+            margin-bottom: -110px
+}
+.intro {
+    text-align: center;
+    font-size: 17px;
+    font-family: sans-serif;
+    padding: 10px 20px;
+}
